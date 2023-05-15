@@ -1,0 +1,7 @@
+{
+  "description": "A test to check if HTML NFTs are rendering correctly in opensea - uses HTTP instead of IPFS for testing purposes", 
+  "external_url": "https://openseacreatures.io/3", 
+  "image": "https://raw.githubusercontent.com/ArdariaWorld/interactive-nft-test/main/test.png", 
+  "animation_url": "https://raw.githubusercontent.com/ArdariaWorld/interactive-nft-test/main/interactiveNft.html",
+  "name": "Test Chest"
+}
